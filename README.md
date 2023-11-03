@@ -1,13 +1,6 @@
 # Iptest
 
-提取文件中的ip
-
-进行ping操作
-
-整理结果
-
 ```python
-python main.py -i ...
+python main.py -i {your_file}
 ```
 
-... mean any files have ips.
