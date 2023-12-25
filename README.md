@@ -1,6 +1,6 @@
-# Iptest
+# **IPtest**
 
 ```python
-python main.py -i {your_file}
+python main.py -i your_file
 ```
 
